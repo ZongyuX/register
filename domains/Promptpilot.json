@@ -1,1 +1,7 @@
-
+{
+  "domain": "owns.it.com",
+  "subdomain": "Promptpilot",
+  "records": {
+    "CNAME": "promptpilot-1h7.pages.dev"
+  }
+}
